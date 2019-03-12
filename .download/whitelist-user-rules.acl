@@ -1,0 +1,9 @@
+# for Auto Mode only,other modes will ignore these rules
+# put user rules here,each rule per line
+# if you want to add a comment line, start the line with #
+# RULES:
+#      somesite.com matches somesite.com and all *.somesite.com subdomains
+#      *.somesite.com matches all subdomain sites
+#      www.somesite.* mataches all sites begin with www.somesite
+#      ip address 8.8.8.8 matches only 8.8.8.8
+
